@@ -597,7 +597,7 @@ a.absolute {
 .slick-prev:hover,
 .slick-next:hover {
     background: #fff;
-    color: #006090;
+    color: #007633	;
 }
 
 /****************end slick carousel****************/
@@ -622,7 +622,7 @@ a.absolute {
     ::-webkit-scrollbar-thumb {
         -webkit-border-radius: 0px;
         border-radius: 0px;
-        background-color: #006090;
+        background-color: #007633	;
     }
     ::-webkit-scrollbar-track {
         background-color: #2C2C2C;
@@ -636,7 +636,7 @@ a.absolute {
     bottom: 15px;
     right: 15px;
     display: none;
-    color: #006090;
+    color: #007633	;
     width: 44px;
     text-align: center;
     height: 44px;
