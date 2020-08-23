@@ -1682,7 +1682,7 @@ a:focus {
         border: none;
     }
     .index-header .block-content {
-        background: #90e6fe;
+        background: #62DA97;
     }
     .about-block {
         background: #F9F9F9;
@@ -1700,7 +1700,7 @@ a:focus {
         max-width: 100%;
     }
     .index-template .index-header .avatar {
-        border: 1px solid #90e6fe;
+        border: 1px solid #62DA97;
     }
     .index-template .index-header .avatar img {
         max-height: 500px;
